@@ -1,0 +1,11 @@
+{
+    "name": "node-app",
+    "version": "1.0.0",
+    "description": "",
+    "main": "subscriber.js",
+    "dependencies": {
+      "amqplib": "^0.8.0"
+    },
+    "author": "",
+    "license": "ISC"
+  }
