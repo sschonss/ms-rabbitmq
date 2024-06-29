@@ -1,4 +1,4 @@
-# Microservices e Mensageria com PHP, RabbitMQ e Docker
+# Microservices e Mensageria com PHP, NodeJS, RabbitMQ e Docker
 
 O desenvolvimento de microserviços é uma abordagem arquitetural que estrutura uma aplicação como um conjunto de serviços pequenos e independentes, que são executados em seu próprio processo e se comunicam por meio de protocolos leves, como HTTP, WebSockets ou AMQP.
 
