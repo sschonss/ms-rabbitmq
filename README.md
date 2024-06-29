@@ -10,7 +10,7 @@ Vamos imaginar o seguinte cenário: você tem um sistema que precisa enviar e-ma
 
 Dessa forma é possível desacoplar a produção de mensagens do consumo, o que permite escalar cada parte do sistema de forma independente. Além disso, o RabbitMQ garante que as mensagens sejam entregues na ordem correta e que não sejam perdidas.
 
-## Arquiteura da aplicação
+## Arquitetura da aplicação
 
 Nossa aplicação será composta por dois microserviços: um produtor e um consumidor. O produtor será responsável por enviar mensagens para uma fila de mensagens, e o consumidor será responsável por consumir as mensagens e exibi-las no terminal.
 
